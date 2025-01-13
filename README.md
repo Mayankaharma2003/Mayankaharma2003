@@ -30,13 +30,13 @@
 - 💻 **VFX Artist** and **Software Developer** from India.
 - ✍️ I love **coding** and exploring **new technologies**.
 - 📚 Currently learning **Spring Boot**.
-- 📧 Reach me via [Email](mailto:mayanksharma@gmail.com).
+- 📧 Reach me via [Email](mailto:mayanksharma31000@gmail.com).
 
 ---
 
 ### 🌐 Social Media
 <p align="center">
-<a href="https://www.linkedin.com/in/mihir-jaiswal-322898287/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/mayank-sharma-871866267/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://instagram.com/_vfxmayank_" target="blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
 
