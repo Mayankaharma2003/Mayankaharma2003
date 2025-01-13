@@ -45,7 +45,7 @@
 ### 🔥 Languages, Frameworks & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,scss,tailwind,materialui,figma,js,ts,react,redux,threejs,npm,nodejs,express,nextjs,mongodb,git,github,postman,python,mysql,vscode,canva&theme=dark" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,spring,hibernate,js,git,github,postman,mysql,vscode,canva&theme=dark" alt="Skills" />
   </a>
 </p>
 
