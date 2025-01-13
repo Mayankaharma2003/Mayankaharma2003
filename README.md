@@ -1,7 +1,17 @@
-![image](https://github.com/user-attachments/assets/f90e3606-a819-44e9-960c-9a2767ba6af4)
 
+
+<div align="center">
+
+ ![image](https://github.com/user-attachments/assets/f90e3606-a819-44e9-960c-9a2767ba6af4)
+
+
+</div>
+
+<div align="center">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mayankaharma2003.Mayankaharma2003)
+  
+</div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -26,8 +36,8 @@
 
 ### 🌐 Social Media
 <p align="center">
-  <a href="https://www.linkedin.com/in/mayanksharma/" title="LinkedIn Profile"><img width="24" src="images/linkedin.svg"> LinkedIn</a> |
-  <a href="https://www.instagram.com/_vfxmayank_/" title="Instagram Profile"><img width="24" src="images/instagram.svg"> Instagram</a>
+<a href="https://www.linkedin.com/in/mihir-jaiswal-322898287/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://instagram.com/_vfxmayank_" target="blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
 
 ---
