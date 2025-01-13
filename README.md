@@ -53,9 +53,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankaharma2003&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Mayankaharma2003&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankaharma2003&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mayankaharma2003&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
 </p>
+
 <p align="center">
 </p>
 <p align="center">
